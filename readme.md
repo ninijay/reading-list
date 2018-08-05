@@ -4,5 +4,5 @@ The current reading list for "the hackers book club" on my [youtube channel](htt
 # Coding, Debugging
 | title | progress | affiliate link |
 |---|---|---|
-| The Art of debugging |  234/280 | https://amzn.to/2viiT83 |
+| The Art of debugging |  280/280 | https://amzn.to/2viiT83 |
 
