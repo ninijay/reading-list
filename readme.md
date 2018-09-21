@@ -6,5 +6,5 @@ Full reviews can be found on my channel, however there is an overall rating and 
 | title | progress | affiliate link | overall rating | difficulty |
 |---|---|---|---|---|
 | The Art of debugging |  280/280 | https://amzn.to/2viiT83 | 4/5 | 3/5 |
-| The C Programming Language | 127/288 | https://amzn.to/2Mn5zZG | N/A | N/A |
+| The C Programming Language | 174/288 | https://amzn.to/2Mn5zZG | N/A | N/A |
 
